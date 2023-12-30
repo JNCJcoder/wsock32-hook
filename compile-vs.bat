@@ -1,0 +1,1 @@
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\Tools\VsDevCmd.bat" && cl /LD dllmain.c /FeWSOCK32-VS.dll /link /DEF:wsock32.def
